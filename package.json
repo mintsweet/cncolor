@@ -20,5 +20,8 @@
     "type": "git",
     "url": "https://github.com/mintsweet/cncolor.git"
   },
+  "scripts": {
+    "pub": "git push origin && npm publish"
+  },
   "license": "MIT"
 }

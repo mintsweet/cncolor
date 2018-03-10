@@ -23,4 +23,4 @@ The Chinese Color List.
 
 ## License
 
-  cncolor &copy; [qingzhan](), Released under the [MIT](./LICENSE) License.
+  cncolor &copy; [qingzhan](https://github.com/mintsweet), Released under the [MIT](./LICENSE) License.
